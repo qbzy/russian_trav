@@ -22,7 +22,7 @@
 - Интерактивные ссылки
 
 ## Ссылки
-- [Проект на GitHub Pages](https://irf4n4ik.github.io/russian-travel/)
+- [Проект на GitHub Pages](https://qbzy.github.io/russian_trav/)
 - [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 ## Автор
